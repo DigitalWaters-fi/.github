@@ -9,7 +9,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# OMEGA-X platform open-source building blocks
+# DigitalWaters.fi platform open-source building blocks
 This repository contains the details to the main building blocks employed in the Horizon Europe [OMEGA-X (Orchestrating an interoperable sovereign federated Multi-vector Energy data space built on open standards 
 and ready for GAia-X) project](https://cordis.europa.eu/project/id/101069287/reporting/es), featuring items such as its federated catalogue, identity manager, data space connector, marketplace, and data model.
 ![logo-omega-X_white](https://github.com/user-attachments/assets/d0b523c9-4d21-46eb-b832-2ea8f974fbc1)
