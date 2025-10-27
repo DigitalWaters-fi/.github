@@ -1,12 +1,7 @@
-**Absolutely — here’s a professional and inspiring **README** draft for your GitHub organization that’s focused on building a **digital twin of the hydrosphere** and advancing **digital water management research**.
-
----
-
-# 🌍 DigitalWaters.fi
+<h1 style="text-align:center;">DigitalWaters.fi </h1>
+![HomeFlagship60pros.](https://digitalwaters.fi/wp-content/uploads/2024/03/Home_Flagship_60pros.svg)
 
 ### *Collaboratively developing open, replicable, and scalable science for digital water management.*
-
----
 
 ## 💧 Overview
 
@@ -14,9 +9,7 @@ The **Digital Waters Consortium** is an open Finnish research initiative uniting
 
 Our mission is to make **water science and management reproducible, scalable, and generalizable** through open-source technologies, transparent data practices, and stakeholder-driven innovation.
 
----
-
-## 🎯 Core Objectives
+## Core Objectives
 
 ### 1. Co-develop architectures and models to support a comprehensive, scalable, source-to-sea digital twin of the hydrosphere
 
