@@ -1,3 +1,124 @@
+**Absolutely — here’s a professional and inspiring **README** draft for your GitHub organization that’s focused on building a **digital twin of the hydrosphere** and advancing **digital water management research**.
+
+---
+
+# 🌍 DigitalWaters.fi
+
+### *Collaboratively developing open, replicable, and scalable science for digital water management.*
+
+---
+
+## 💧 Overview
+
+The **Digital Waters Consortium** is an open Finnish research initiative uniting scientists, engineers, and policymakers to co-develop architectures, models, and methods that enable a comprehensive **digital twin of the hydrosphere**.
+
+Our mission is to make **water science and management reproducible, scalable, and generalizable** through open-source technologies, transparent data practices, and stakeholder-driven innovation.
+
+---
+
+## 🎯 Core Objectives
+
+### 1. Co-develop architectures and models to support a comprehensive, scalable, source-to-sea digital twin of the hydrosphere
+
+* Build modular, interoperable architectures for hydrologic digital twins
+* Integrate physical models, data assimilation pipelines, and AI-driven components
+* Align with OGC interoperability standards
+* Promote FAIR (Findable, Accessible, Interoperable, Reusable) and open science principles
+
+### 2. Enable replicable and scalable research in digital water management
+
+* Support transparent workflows and reproducible experiments
+* Foster cloud-native, containerized, and distributed modeling frameworks
+* Develop reusable digital assets (data, models, APIs, visualization tools)
+* Encourage collaboration across disciplines — from hydrology to informatics
+
+---
+
+## 🧩 Organizational Structure
+
+The consortium operates through **collaborative workstreams**:
+
+| Workstream                              | Focus Area                                                     |
+| --------------------------------------- | -------------------------------------------------------------- |
+| 🏗️ **Architecture & Infrastructure**   | Frameworks, APIs, data pipelines, cloud infrastructure         |
+| 🌊 **Modeling & Simulation**            | Hydrologic, hydraulic, and hydrogeologic modeling              |
+| 🤖 **AI & Data Assimilation**           | Machine learning, uncertainty quantification, sensor fusion    |
+| 🗺️ **Interoperability & Standards**    | Metadata, ontologies, and compliance with open data standards  |
+| 📈 **Use Cases & Applications**         | Basin-scale digital twins, urban water systems, extreme events |
+| 📚 **Open Science & Capacity Building** | Training, reproducibility, and best practices                  |
+
+---
+
+## 🧠 Guiding Principles
+
+* **Open collaboration** — all repositories are public by default
+* **Reproducibility first** — versioned data, transparent workflows, documented environments
+* **Interoperability by design** — consistent APIs, modular architecture, open standards
+* **Ethical and sustainable data use** — privacy, stewardship, and long-term accessibility
+* **Stakeholder-driven governance** — inclusive participation and shared ownership
+
+---
+
+## 🧰 Key Technologies
+
+We build upon open ecosystems such as:
+
+* 🌐 **Open Geospatial Consortium (OGC)** standards
+* ☁️ **Cloud-native computing** (Kubernetes, Dask, Prefect)
+* 🧬 **Data & model interoperability** (Zarr, NetCDF, Xarray)
+* 🧠 **AI for science** (PyTorch, TensorFlow, Scikit-learn)
+* 🧪 **Reproducible workflows** (Docker, GitHub Actions, Jupyter, CWL, Snakemake)
+
+---
+
+## Getting Started
+
+1.**Learn Digital Waters architecture and models**
+  Visit the [training page](https://github.com/DigitalWater-fi/trainings) to learn our:
+  * Standards for interoperable model development
+  * Standards for digit
+  * Standards for repository management
+  
+2. **Explore our repositories**
+  Visit the [organization page](https://github.com/DigitalWater-fi) to discover ongoing projects.
+
+3. **Join the discussion**
+  Participate in our [GitHub Discussions](https://github.com/orgs/DigitalWaters-fi/discussions) or [Slack/Matrix community].
+
+4. **Contribute**
+
+   * Review our [Contributing Guidelines](CONTRIBUTING.md)
+   * Read the [Code of Conduct](CODE_OF_CONDUCT.md)
+   * Open issues, propose features, or submit pull requests
+
+5. **Collaborate on pilots**
+   We welcome collaborations on regional and thematic digital twin demonstrators.
+
+---
+
+## 🌐 Governance & Membership
+
+The consortium operates under a **federated, open governance model** with participation from:
+
+* Research institutions: FGI, FMI, and Syke
+* Academic institutions: University of Oulu, Aalto University, University of Turku
+* Nonprofits and governmental organizations
+* Industry and technology partners
+
+---
+
+## Citation & Attribution
+
+If you use our frameworks, models, or data in your research, please cite the appropriate repository or DOI via Zenodo.
+
+---
+
+## Contact
+
+> We welcome questions, suggestions, and ideas for collaboration. Please contact us at diwa-vre@lists.oulu.fi
+
+---
+
 <!--
 ## Hi there 👋
 
@@ -9,8 +130,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# DigitalWaters.fi platform open-source building blocks
-This repository contains the details to the main building blocks employed in the Horizon Europe [OMEGA-X (Orchestrating an interoperable sovereign federated Multi-vector Energy data space built on open standards 
+# DigitalWaters.fi: Collaboratively developing open, replicable, and scalable science for digital water management.
+This organization  [OMEGA-X (Orchestrating an interoperable sovereign federated Multi-vector Energy data space built on open standards 
 and ready for GAia-X) project](https://cordis.europa.eu/project/id/101069287/reporting/es), featuring items such as its federated catalogue, identity manager, data space connector, marketplace, and data model.
 ![DIWA-logo-landscape](https://github.com/user-attachments/assets/d0b523c9-4d21-46eb-b832-2ea8f974fbc1)
 
