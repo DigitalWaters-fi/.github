@@ -1,12 +1,13 @@
-<h1 align="center">DigitalWaters.fi </h1>
+<h1 align="center"> DigitalWaters.fi </h1>
+
+### *💧Collaboratively developing open, replicable, and scalable science for digital water management.*
 
 <p align="center">
-  <img src="https://digitalwaters.fi/wp-content/uploads/2024/03/Home_Flagship_60pros.svg" width="400" alt="Project Logo">
+  <img src="https://github.com/DigitalWaters-fi/.github/blob/main/imgs/DIWA_logo_illustration_landscape.jpg" width="500" alt="Project Logo">
 </p>
 
-###            *Collaboratively developing open, replicable, and scalable science for digital water management.*
 
-<h2 align="center"> 💧 Overview </h2>
+<h2 align="center">  Overview </h2>
 
 The **Digital Waters Consortium** is a Finnish flagship and PhD pilot uniting scientists, engineers, and policymakers to co-develop architectures, models, and methods that enable a comprehensive **digital twin of the hydrosphere** for data driven, sustainable water management.
 
@@ -28,6 +29,12 @@ Our mission is to make **water science and management reproducible, scalable, an
 * Foster cloud-native, containerized, and distributed modeling frameworks
 * Develop reusable digital assets (data, models, APIs, visualization tools)
 * Encourage collaboration across disciplines — from IoT devices to networks to hydrology to policy
+
+<h2 align="center"> Partners </h2>
+
+<p align="center">
+  <img src="https://github.com/DigitalWaters-fi/.github/blob/main/imgs/DIWA_partnerlogos_.png" width="1000" alt="Project Logo">
+</p>
 
 <h2 align="center"> Organizational Structure </h2>
 
@@ -91,12 +98,12 @@ Participate in our [GitHub Discussions](https://github.com/orgs/DigitalWaters-fi
 We welcome collaborations on regional and thematic digital twin demonstrators.
 
 
-## Citation & Attribution
+<h2 align="center"> Citation & Attribution </h2>
 
 If you use our frameworks, models, or data in your research, please cite the appropriate repository or DOI via Zenodo. To learn more about core concepts in the Digital Waters Flagship, view our publications page.
 
 
-## Contact
+<h2 align="center"> Contact </h2>
 
 > We welcome questions, suggestions, and ideas for collaboration. Please contact us at diwa-vre@lists.oulu.fi
 
