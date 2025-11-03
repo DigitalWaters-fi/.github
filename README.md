@@ -4,7 +4,7 @@
   <img src="https://digitalwaters.fi/wp-content/uploads/2024/03/Home_Flagship_60pros.svg" width="400" alt="Project Logo">
 </p>
 
-<h3 align="center"></i> Collaboratively developing open, replicable, and scalable science for digital water management.* </h3>
+<h3 align="center"></i> Collaboratively developing open, replicable, and scalable science for digital water management. </h3>
 
 <h2 align="center"> 💧 Overview </h2>
 
@@ -12,13 +12,14 @@ The **Digital Waters Consortium** is a Finnish flagship and PhD pilot uniting sc
 
 Our mission is to make **water science and management reproducible, scalable, and generalizable** through open-source technologies, transparent data practices, and stakeholder-driven innovation.
 
-<h2 align="center"> Core Objectives
+<h2 align="center"> Core Objectives </h2>
 
 ### 1. Co-develop architectures and models to support a comprehensive, scalable, source-to-sea digital twin of the hydrosphere
 
 * Build modular, interoperable architectures for hydrologic digital twins
-* Integrate sensor networks and physical models, data assimilation pipelines, and AI-driven components
-* Align with OGC interoperability standards
+* Integrate sensor networks and physical models using interoperable data assimilation pipelines and AI-driven components
+* Utilize OGC Standards
+* Adhere to European Interoperability Framework.
 * Promote FAIR (Findable, Accessible, Interoperable, Reusable) and open science principles
 
 ### 2. Enable replicable and scalable research in digital water management
@@ -26,36 +27,38 @@ Our mission is to make **water science and management reproducible, scalable, an
 * Support transparent workflows and reproducible experiments
 * Foster cloud-native, containerized, and distributed modeling frameworks
 * Develop reusable digital assets (data, models, APIs, visualization tools)
-* Encourage collaboration across disciplines — from hydrology to informatics
+* Encourage collaboration across disciplines — from IoT devices to networks to hydrology to policy
 
-<h2 align="center"> Organizational Structure
+<h2 align="center"> Organizational Structure </h2>
 
-The consortium operates through **collaborative workstreams**:
+The consortium operates through **collaborative Research Themes (RTs)**:
 
 | Workstream                              | Focus Area                                                     |
 | --------------------------------------- | -------------------------------------------------------------- |
-|    **Architecture & Infrastructure**   | automatic data pipelines, virtual research environment, and associated infrastructure  |
-|    **Modeling & Simulation**           | Hydrologic, hydraulic, and water quality modeling              |
-|    **AI & Data Assimilation**          | Machine learning, uncertainty quantification, sensor fusion    |
-|    **Interoperability & Standards**    | Interoperability with international Digital Twins frameworks and compliance with OGC standards  |
-|   **Use Cases & Applications**         | Stakeholder-driven digital water use cases or "virtual thematic labs" |
-|   **Open Science & Capacity Building** | Training on open science and best practices for research and infrastructure co-development                  |
+|    **RT1: Hydrosphere processes**   | Re-evaluating past, present, and future hydrosphere processes  |
+|    **RT2: New Observation Systems** | New observation network and autonomous multi-robot platforms for environmental monitoring of natural and built environments|
+|    **RT3: Integrated analysis and modelling** | Integration of analysis tools and simulation models with observations and digital service platform for near real time simulation and impact assessments |
+|    **RT4: Digital services, platforms, and business applications**  | Interoperable digital solutions for sharing and exploring data from sensors and models, and co-creation of services  |
+|   **RT5: Transformative water management** | New avenues to improve water management and to create business innovations through digital solutions |
+|   **Training & Capacity Building** | Digital Waters PhD Pilot and mutli-level training training on open science and best practices for research and infrastructure co-development in digital water management|
 
-<h2 align="center"> Guiding Principles
+<h2 align="center"> Guiding Principles</h2>
 * **Reproducibility first** — versioned data, transparent workflows, documented environments
 * **Interoperability by design** — consistent APIs, modular architecture, open standards
 * **Ethical and sustainable data use** — privacy, stewardship, and long-term accessibility
 * **Stakeholder-driven governance** — inclusive participation and shared ownership
 
-<h2 align="center"> Key Technologies
+<h2 align="center"> Key Technologies</h2>
+
 We build upon open architectures, including:
 *  **Data and metadata interoperability** (OGC standards)
-*  **Cloud-native computing** (Kubernetes)
-*  **Data & model interoperability** (pygeoapi, WaterML2.0, OpenMI)
+*  **Data & model interoperability** (pygeoapi, STAC, simpl, WaterML2.0, OpenMI)
+*  **Interoperability with EU platforms** (STAC, Simpl, Kubernetes)
 *  **AI for science** (PyTorch, TensorFlow, Scikit-learn)
 *  **Reproducible workflows** (Docker, conda, pixi, GitHub Actions, JupyterHub)
   
-<h2 align="center"> Getting Started
+<h2 align="center"> Getting Started </h2>
+
 1. **Learn Digital Waters architecture and models**
   Visit the [training page](https://github.com/DigitalWater-fi/trainings) to learn about our:
   * Data models and storing your data in the DIWA Data Lake
