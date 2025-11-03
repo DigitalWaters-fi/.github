@@ -17,7 +17,7 @@ Our mission is to make **water science and management reproducible, scalable, an
 ### 1. Co-develop architectures and models to support a comprehensive, scalable, source-to-sea digital twin of the hydrosphere
 
 * Build modular, interoperable architectures for hydrologic digital twins
-* Integrate sensor networks and physical models using interoperable data assimilation pipelines and AI-driven components
+* Integrate real-time sensor networks and 4D (3D + time) observations with physical models using interoperable data assimilation pipelines and AI-driven components
 * Utilize OGC Standards
 * Adhere to European Interoperability Framework.
 * Promote FAIR (Findable, Accessible, Interoperable, Reusable) and open science principles
@@ -42,13 +42,6 @@ The consortium operates through **collaborative Research Themes (RTs)**:
 |   **RT5: Transformative water management** | New avenues to improve water management and to create business innovations through digital solutions |
 |   **Training & Capacity Building** | Digital Waters PhD Pilot and mutli-level training training on open science and best practices for research and infrastructure co-development in digital water management|
 
-<h2 align="center"> Guiding Principles</h2>
-
-* **Reproducibility first** — versioned data, transparent workflows, documented environments
-* **Interoperability by design** — consistent APIs, modular architecture, open standards
-* **Ethical and sustainable data use** — privacy, stewardship, and long-term accessibility
-* **Stakeholder-driven development** — inclusive participation and shared ownership
-
 <h2 align="center"> Key Technologies</h2>
 
 We build upon open architectures, including:
@@ -57,31 +50,45 @@ We build upon open architectures, including:
 *  **Data & model interoperability** (pygeoapi, STAC, simpl, WaterML2.0, OpenMI)
 *  **Interoperability with EU platforms** (STAC, Simpl, Kubernetes)
 *  **AI for science** (PyTorch, TensorFlow, Scikit-learn)
-*  **Reproducible workflows** (Docker, conda, pixi, GitHub Actions, JupyterHub)
+*  **FAIR workflows** (Docker, conda, pixi, git/GitHub, JupyterHub)
   
 <h2 align="center"> Getting Started </h2>
 
 1. **Learn Digital Waters architecture and models**
-  Visit the [training page](https://github.com/DigitalWater-fi/trainings) to learn about our:
+
+Visit the [training page](https://github.com/DigitalWater-fi/trainings) to learn about our:
   * Data models and storing your data in the DIWA Data Lake
   * Developing models that are interoperable with Digital Waters models and data pipelines.
   * Standards for reproducible repository management.
   * And more!
     
-2. **Explore our repositories**
-  Visit our [public repositories](https://github.com/orgs/DigitalWaters-fi/repositories) to discover ongoing projects.
+2. **Access the DIWA Data Lab**
 
-3. **Join the discussion**
-  Participate in our [GitHub Discussions](https://github.com/orgs/DigitalWaters-fi/discussions).
+*In development*
+   Digital Waters Flagship and Pilot researchers can access our [Virtual Research Lab](https://jupyterhub-proxy-route-diwa-vre.2.rahtiapp.fi)
 
-4. **Contribute**
+4. **Share and publish data on the DIWA Data Lake**
+
+*In development, email diwa-vre@lists.oulu.fi to register*
+   Register new sensors or add research data to the [DIWA Data Lake](https://fip-128-214-255-89.kaj.poutavm.fi/)
+    
+6. **Explore our repositories**
+
+Visit our [public repositories](https://github.com/orgs/DigitalWaters-fi/repositories) to discover ongoing projects.
+
+8. **Join the discussion**
+
+Participate in our [GitHub Discussions](https://github.com/orgs/DigitalWaters-fi/discussions).
+   
+10. **Contribute**
 
    * Review our [Contributing Guidelines](CONTRIBUTING.md)
    * Read the [Code of Conduct](CODE_OF_CONDUCT.md)
    * Open issues, propose features, or submit pull requests
 
-5. **Collaborate on digital water management use cases**
-   We welcome collaborations on regional and thematic digital twin demonstrators.
+11. **Collaborate on digital water management use cases**
+
+We welcome collaborations on regional and thematic digital twin demonstrators.
 
 
 ## Citation & Attribution
