@@ -4,7 +4,7 @@
   <img src="https://digitalwaters.fi/wp-content/uploads/2024/03/Home_Flagship_60pros.svg" width="400" alt="Project Logo">
 </p>
 
-<h3 align="center"></i> Collaboratively developing open, replicable, and scalable science for digital water management. </h3>
+###            *Collaboratively developing open, replicable, and scalable science for digital water management.*
 
 <h2 align="center"> 💧 Overview </h2>
 
@@ -33,7 +33,7 @@ Our mission is to make **water science and management reproducible, scalable, an
 
 The consortium operates through **collaborative Research Themes (RTs)**:
 
-| Workstream                              | Focus Area                                                     |
+| Research Theme                              | Focus Area                                                     |
 | --------------------------------------- | -------------------------------------------------------------- |
 |    **RT1: Hydrosphere processes**   | Re-evaluating past, present, and future hydrosphere processes  |
 |    **RT2: New Observation Systems** | New observation network and autonomous multi-robot platforms for environmental monitoring of natural and built environments|
@@ -43,14 +43,16 @@ The consortium operates through **collaborative Research Themes (RTs)**:
 |   **Training & Capacity Building** | Digital Waters PhD Pilot and mutli-level training training on open science and best practices for research and infrastructure co-development in digital water management|
 
 <h2 align="center"> Guiding Principles</h2>
+
 * **Reproducibility first** — versioned data, transparent workflows, documented environments
 * **Interoperability by design** — consistent APIs, modular architecture, open standards
 * **Ethical and sustainable data use** — privacy, stewardship, and long-term accessibility
-* **Stakeholder-driven governance** — inclusive participation and shared ownership
+* **Stakeholder-driven development** — inclusive participation and shared ownership
 
 <h2 align="center"> Key Technologies</h2>
 
 We build upon open architectures, including:
+
 *  **Data and metadata interoperability** (OGC standards)
 *  **Data & model interoperability** (pygeoapi, STAC, simpl, WaterML2.0, OpenMI)
 *  **Interoperability with EU platforms** (STAC, Simpl, Kubernetes)
@@ -67,7 +69,7 @@ We build upon open architectures, including:
   * And more!
     
 2. **Explore our repositories**
-  Visit the [organization page](https://github.com/DigitalWater-fi) to discover ongoing projects.
+  Visit our [public repositories](https://github.com/orgs/DigitalWaters-fi/repositories) to discover ongoing projects.
 
 3. **Join the discussion**
   Participate in our [GitHub Discussions](https://github.com/orgs/DigitalWaters-fi/discussions).
