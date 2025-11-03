@@ -17,11 +17,9 @@ Our mission is to make **water science and management reproducible, scalable, an
 
 ### 1. Co-develop architectures and models to support a comprehensive, scalable, source-to-sea digital twin of the hydrosphere
 
-* Build modular, interoperable architectures for hydrologic digital twins
-* Integrate real-time sensor networks and 4D (3D + time) observations with physical models using interoperable data assimilation pipelines and AI-driven components
-* Utilize OGC Standards
-* Adhere to European Interoperability Framework.
-* Promote FAIR (Findable, Accessible, Interoperable, Reusable) and open science principles
+* Build modular, interoperable, generalizable architectures for data-driven hydrologic digital twins.
+* Integrate real-time sensor networks and 4D (3D + time) observations with physical models using interoperable data assimilation pipelines and AI-driven components.
+* Promote FAIR (Findable, Accessible, Interoperable, Reusable) and open science principles in water-resources management.
 
 ### 2. Enable replicable and scalable research in digital water management
 
