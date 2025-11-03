@@ -49,6 +49,7 @@ The consortium operates through **collaborative Research Themes (RTs)**:
 |   **RT5: Transformative water management** | New avenues to improve water management and to create business innovations through digital solutions |
 |   **Training & Capacity Building** | Digital Waters PhD Pilot and mutli-level training training on open science and best practices for research and infrastructure co-development in digital water management|
 
+
 <h2 align="center"> Key Technologies</h2>
 
 We build upon open architectures, including:
