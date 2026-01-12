@@ -72,7 +72,7 @@ Visit the [training page](https://github.com/DigitalWater-fi/trainings) to learn
 2. **Access the DIWA Data Lab**
 
 *In development*
-   Digital Waters Flagship and Pilot researchers can access our [Virtual Research Lab](https://jupyterhub-proxy-route-diwa-vre.2.rahtiapp.fi)
+   Digital Waters Flagship and Pilot researchers can access our [Virtual Research Lab](https://diwa-data-lab-vre.rahtiapp.fi)
 
 4. **Share and publish data on the DIWA Data Lake**
 
