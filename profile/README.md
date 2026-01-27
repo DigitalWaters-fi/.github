@@ -63,7 +63,7 @@ We build upon open architectures, including:
 
 1. **Learn Digital Waters architecture and models**
 
-Visit the [training page](https://github.com/DigitalWater-fi/trainings) to learn about our:
+Visit the [training page](https://github.com/DigitalWaters-fi/community/tree/main/how-tos) to learn about our:
   * Data models and storing your data in the DIWA Data Lake
   * Developing models that are interoperable with Digital Waters models and data pipelines.
   * Standards for reproducible repository management.
