@@ -81,22 +81,6 @@ We build upon open architectures, including:
 *  **FAIR workflows** (Docker, conda, pixi, git/GitHub, JupyterHub)
   
 
-
-<h2 align="center"> Organizational Structure </h2>
-
-The consortium operates through **collaborative Research Themes (RTs)**:
-
-| Research Theme                              | Focus Area                                                     |
-| --------------------------------------- | -------------------------------------------------------------- |
-|    **RT1: Hydrosphere processes**   | Re-evaluating past, present, and future hydrosphere processes  |
-|    **RT2: New Observation Systems** | New observation network and autonomous multi-robot platforms for environmental monitoring of natural and built environments|
-|    **RT3: Integrated analysis and modelling** | Integration of analysis tools and simulation models with observations and digital service platform for near real time simulation and impact assessments |
-|    **RT4: Digital services, platforms, and business applications**  | Interoperable digital solutions for sharing and exploring data from sensors and models, and co-creation of services  |
-|   **RT5: Transformative water management** | New avenues to improve water management and to create business innovations through digital solutions |
-|   **Training & Capacity Building** | Digital Waters PhD Pilot and mutli-level training training on open science and best practices for research and infrastructure co-development in digital water management|
-
-
-
 <h2 align="center"> Citation & Attribution </h2>
 
 If you use our frameworks, models, or data in your research, please cite the appropriate repository or DOI via Zenodo. To learn more about core concepts in the Digital Waters Flagship, view our publications page.
