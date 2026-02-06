@@ -1,6 +1,6 @@
 <h1 align="center"> DigitalWaters.fi </h1>
 
-### *💧Collaboratively developing open, replicable, and scalable science for digital water management.*
+### *Collaboratively developing open, replicable, and scalable science for digital water management.*
 
 <p align="center">
   <img src="https://github.com/DigitalWaters-fi/.github/blob/main/imgs/DIWA_logo_illustration_landscape.jpg" width="500" alt="Project Logo">
