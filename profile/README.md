@@ -37,19 +37,22 @@ Visit the [training page](https://github.com/DigitalWaters-fi/community/tree/mai
 
 Visit our [public repositories](https://github.com/orgs/DigitalWaters-fi/repositories) to discover ongoing projects.
 
-8. **Join the discussion**
+8. **Get assistance with finding, processing, or modelling data**
 
-Participate in our [GitHub Discussions](https://github.com/orgs/DigitalWaters-fi/discussions).
+Participate in our [GitHub Discussions](https://github.com/orgs/DigitalWaters-fi/discussions) to get community support navigating technical issues in research computation. This board is moderated by staff computer scientists and environmental data/software specialists. 
    
 10. **Contribute**
 
    * Review our [Contributing Guidelines](CONTRIBUTING.md)
-   * Read the [Code of Conduct](CODE_OF_CONDUCT.md)
    * Open issues, propose features, or submit pull requests
 
 11. **Collaborate on digital water management use cases**
 
 We welcome collaborations on regional and thematic digital twin demonstrators.
+
+12. **Report issues or bugs with DIWA platforms and software**
+
+[Report an issue](https://github.com/DigitalWaters-fi/.github/issues), bug, or error with DIWA software, platforms (like the VRE), and models.
 
 
 
