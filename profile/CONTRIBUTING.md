@@ -143,10 +143,3 @@ We aim to create a **welcoming and inclusive community**. By participating, you 
 Your contributions make **DigitalWaters-fi** stronger and more impactful.
 Thank you for your time, effort, and ideas.
 
-```
-
-
-If you want, I can also **add a “Discussion & Idea Submission” section** so non-code contributors know exactly how to participate in your community repo. This is great for open-source orgs with non-developer contributors.  
-
-Do you want me to do that?
-```
