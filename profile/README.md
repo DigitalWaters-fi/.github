@@ -26,7 +26,7 @@ Visit the [training page](https://github.com/DigitalWaters-fi/community/tree/mai
 2. **Access the DIWA Data Lab**
 
 *In development*
-   Digital Waters Flagship and Pilot researchers can access our [Virtual Research Lab](https://diwa-data-lab-vre.rahtiapp.fi)
+   Digital Waters Flagship and Pilot researchers can access our virtual research environment (VRE), the [DIWA DataLab](https://diwa-data-lab-vre.rahtiapp.fi)
 
 4. **Share and publish data on the DIWA Data Lake**
 
