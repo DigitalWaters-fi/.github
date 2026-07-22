@@ -1,0 +1,37 @@
+# Save this as `.dockerignore` (with the leading dot) next to your Dockerfile.
+# It stops these files from ever entering the image — both for safety and to
+# keep the image small.
+
+# Secrets — never let these in
+.env
+.env.*
+*.pem
+*.key
+credentials*
+.netrc
+.aws/
+.ssh/
+
+# Version control and CI
+.git
+.gitignore
+.github
+
+# Large data — mount at runtime instead of baking in
+data/
+*.nc
+*.tif
+*.gpkg
+*.zip
+
+# R / RStudio noise
+.Rproj.user/
+.Rhistory
+.RData
+renv/library/
+
+# Python noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

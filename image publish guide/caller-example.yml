@@ -1,0 +1,24 @@
+# Copy this into YOUR repo at .github/workflows/publish.yml
+# NOTE: if your default branch is `master`, change `branches: [main]` below.
+# Replace the image name with yours.
+
+name: Publish
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  pull_request:
+
+jobs:
+  publish:
+    uses: DigitalWaters-fi/workflows/.github/workflows/publish-ghcr.yml@main
+    permissions:
+      contents: read
+      packages: write
+    with:
+      image-name: my-image
+      dockerfile: ./Dockerfile
+      context: .
+      # only actually push on main/tags, build-only on PRs
+      push: ${{ github.event_name != 'pull_request' }}

@@ -1,0 +1,40 @@
+# Sample Dockerfile — copy into your repo, rename to exactly `Dockerfile`.
+#
+# A Dockerfile is a recipe, read top to bottom. Edit the two marked lines
+# and delete anything you don't need.
+
+
+# Base image: what you're starting from. Pick one that already has your
+# language/tools, and always pin a version — never use `latest`.
+# EDIT THIS.
+FROM python:3.12-slim
+
+
+# Required: links this image to your repo on GitHub, so the package inherits
+# the repo's permissions. EDIT THE REPO NAME.
+LABEL org.opencontainers.image.source=https://github.com/DigitalWaters-fi/YOUR_REPO
+
+
+# Install your dependencies. Adjust to whatever your project uses.
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+
+# Copy your code in.
+WORKDIR /app
+COPY . .
+
+
+# What runs when the container starts. Delete if not applicable.
+CMD ["python", "main.py"]
+
+
+# ---------------------------------------------------------------------------
+# Only two rules really matter:
+#
+# 1. Never put secrets in an image — no .env, keys, or passwords. Deleting
+#    them in a later step does not remove them, and our images are public.
+#    The .dockerignore file handles this for you.
+#
+# 2. Test locally first:  docker build -t test .
+# ---------------------------------------------------------------------------
